@@ -1,0 +1,1 @@
+Bu program ile komut sisteminizi kullanarak Türkçe kelimelerin tdk tanımlarını bulabilirsiniz.
